@@ -6,3 +6,5 @@
 ## プレイ
 
 https://ashe1098.github.io/colorful-charm2/
+
+ヒント：水はいっぱい出し続けた方がスコアが伸びます
