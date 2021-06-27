@@ -9,5 +9,6 @@
 
 ## プレイ
 
-https://ashe1098.github.io/colorful-charm2/  
+https://ashe1098.github.io/colorful-charm2/
+
 Sランク目指してファイト！！！
