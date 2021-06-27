@@ -9,4 +9,4 @@
 
 https://ashe1098.github.io/colorful-charm2/
 
-ヒント：水は連続でいっぱい出し続けた方がスコアが伸びます
+Sランク目指してファイト！！！
