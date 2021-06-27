@@ -1,6 +1,6 @@
 # ふぉるこせるまぁ～れ！！
 
-3Daysゲームジャム「[ColorfulCharm2](https://peatix.com/event/1889715)」で開発した消火系スコアアタックゲームです。
+3Daysゲームジャム「[ColorfulCharm2](https://peatix.com/event/1889715)」で開発した火事消火型スコアアタックゲームです。
 
 <img src="https://raw.githubusercontent.com/ashe1098/colorful-charm2/main/images/title.png" width=70%>
 
