@@ -2,7 +2,8 @@
 
 3Daysゲームジャム「[ColorfulCharm2](https://peatix.com/event/1889715)」で制作した火事消火型スコアアタックゲームです。
 
-<img src="https://raw.githubusercontent.com/ashe1098/colorful-charm2/main/images/title.png" width=70%>
+<!-- <img src="/images/title.png" width=70%> -->
+<img src="/images/demo.gif" width=70%>
 
 ## プレイ
 
@@ -23,5 +24,5 @@ Sランク目指してファイト！！！
 
 実装したスクリプトの参照先は以下の通りです。
 
-- [GameMaster.cs](https://github.com/ashe1098/colorful-charm2/blob/main/Scripts/ManagerScript/GameMaster.cs)
+- [GameMaster.cs](/Scripts/ManagerScript/GameMaster.cs)
 - [その他のスクリプト郡](/Scripts/GamePlay)
